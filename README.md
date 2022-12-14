@@ -13,7 +13,7 @@ To run the pre-processing file: python pre-processing.py
 The model are available om the 'model' folder. Python files of different algorithms can be downloaded.
 You can run any model you want to, but make sure you give the correct path for the csv files while reading and saving them for output csv.
 
-If you are running xyz model, Code to run: python <filename>.py
+If you are running xyz model, Code to run: python "filename".py
 
 The XGBoost model is giving the highest score: 0.89512 (private score) / 0.8909 (public score)
 
