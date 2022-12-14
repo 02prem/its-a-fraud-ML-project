@@ -10,8 +10,9 @@ named 'pre-processed_train.csv' and 'pre-processed_test.csv'
 To run the pre-processing file: python pre-processing.py
 
 ### Run the models
-You can run any model you want to, but make sure you give the correct path for the csv files while reading them.
-If you are running xyz model: python xyz.py
+The model are available om the 'model' folder. Python files of different algorithms can be downloaded.
+You can run any model you want to, but make sure you give the correct path for the csv files while reading and saving them for output csv.
+If you are running xyz model: python <filename>.py
 
 The XGBoost model is giving the highest score
 
